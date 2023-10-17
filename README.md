@@ -6,11 +6,11 @@ Este repositório é destinado a armazenar códigos relacionados às aulas prese
 
 O repositório está organizado da seguinte forma:
 
-- **/Aulas_Presenciais**: Esta pasta contém os códigos que foram discutidos e demonstrados durante as aulas presenciais. Os códigos estão separados por tópico e acompanham anotações relevantes.
+- **/Aulas Presenciais**: Esta pasta contém os códigos que foram discutidos e demonstrados durante as aulas presenciais. Os códigos estão separados por tópico e acompanham anotações relevantes.
 
 - **/Videoaulas**: Aqui, você encontrará os códigos usados nas videoaulas, juntamente com links para os vídeos correspondentes, se aplicável. Os códigos estão organizados em pastas temáticas.
 
-- **/Scripts_SQL**: Esta pasta é destinada a scripts SQL úteis, como scripts de criação de banco de dados, inserções iniciais, procedimentos armazenados, entre outros.
+- **/ScriptsSQL**: Esta pasta é destinada a scripts SQL úteis, como scripts de criação de banco de dados, inserções iniciais, procedimentos armazenados, entre outros.
 
 ## Como Contribuir
 
